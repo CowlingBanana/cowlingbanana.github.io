@@ -81,6 +81,9 @@ gems:
 plugins:
   - jemoji
 
+emoji:
+  src: "/assets/images/emoji"
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
